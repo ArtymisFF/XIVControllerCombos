@@ -1,0 +1,9 @@
+{
+  "Name": "XIV Controller Combos",
+  "Author": "ArtymisFF | Attick (original XIVCombo)",
+  "Description": "This plugin attempts to make jobs less clunky to play on controller by consolidating a lot of buttons and removing bloat. /pcombo to open menu",
+  "RepoUrl": "https://github.com/attickdoor/XivComboPlugin",
+  "Punchline": "Attempts to fit all main job actions on one controller hotbar.",
+  "Tags": [ "Combo", "Controller", "Gamepad", "Combos" ],
+  "AcceptsFeedback": true
+}
